@@ -119,10 +119,10 @@ System.out.println("I dont know java")
 3. Third 
 ```
 ### Links
-[text](https://url.com)
+[Just click here ](https://www.youtube.com/watch?v=QDia3e12czc)
 
 ### Images
-![description](image-url.png)
+![no image in here](image-url.png)
 
 
 ### Blockquotes
